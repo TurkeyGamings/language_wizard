@@ -1,27 +1,6 @@
-# language-wizard (Go)
+# language-wizard
 
 *A tiny, thread-safe i18n key–value store with hot language switching and a simple event model.*
-
-## Table of Contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [Installation](#installation)
-* [Quick Start](#quick-start)
-* [Concepts & API](#concepts--api)
-
-  * [Construction](#construction)
-  * [Reading](#reading)
-  * [Updating](#updating)
-  * [Events & Waiting](#events--waiting)
-  * [Logging](#logging)
-  * [Closing](#closing)
-  * [Errors](#errors)
-* [Thread-Safety & Concurrency Model](#thread-safety--concurrency-model)
-* [Usage Patterns](#usage-patterns)
-* [Testing](#testing)
-* [FAQ](#faq)
-* [Limitations](#limitations)
 
 ## Overview
 
